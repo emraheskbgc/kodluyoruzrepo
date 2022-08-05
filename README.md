@@ -22,7 +22,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## An Image From My Project
-![Lorem Picsum Gorsel](/markdown.png/)
+![proje görseli](/markdown.png/)
 
 
 
