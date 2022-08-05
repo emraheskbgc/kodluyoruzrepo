@@ -22,8 +22,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## An Image From My Project
-![proje görseli](https://github.com/emraheskbgc/kodluyoruzrepo/issues/1#issue-1330332387)
 
+![markdown](https://user-images.githubusercontent.com/84245734/183149921-5cae622c-0c62-4ca5-a3c2-6da489901d06.png)
 
 
 
